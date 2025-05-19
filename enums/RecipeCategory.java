@@ -16,4 +16,3 @@ public enum RecipeCategory {
     @Override
     public String toString() {return categoryName;}
 }
-
