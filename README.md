@@ -1,0 +1,1 @@
+# Semenyshyn_kurs
